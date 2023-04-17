@@ -15,7 +15,9 @@ php server.php status
 For Run Api To Connect (users) use This:
 wscat -c ws://192.168.1.101:8080
 
-* For Create Custom Domain in Local
+
+
+# For Create Custom Domain in Local
 1- Go To File Path: C:/xampp/apache/conf/extra/httpd-vhosts.conf
 
 2- Add This Lines To End
